@@ -50,4 +50,10 @@ Java 5.0引入了枚举，枚举限制变量只能是预先设定好的值。使
 
 :::warning
 某某某某已经不能这么用
-:::
+:::  
+
+```java
+public static void Main () {
+  System.out.println("Hello,world");
+}
+```
